@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AbstractFactoryOfPhone/src"/>
+	<classpathentry kind="src" path="Builder/src"/>
+	<classpathentry kind="src" path="BuilderPrice/src"/>
+	<classpathentry kind="src" path="Exercise4/src"/>
+	<classpathentry kind="src" path="FactoryDesign/src"/>
+	<classpathentry kind="src" path="Mp3Adapter/src"/>
+	<classpathentry kind="src" path="ObserverMi/src"/>
+	<classpathentry kind="src" path="PlugAdapter/src"/>
+	<classpathentry kind="src" path="tdd-example/src/main/java"/>
+	<classpathentry kind="src" path="tdd-example/src/test/java"/>
+	<classpathentry kind="output" path="AbstractFactoryOfPhone/bin"/>
+</classpath>
